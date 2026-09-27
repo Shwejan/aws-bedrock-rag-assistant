@@ -1,0 +1,9 @@
+IT Support Policy
+
+Employees experiencing technical problems should submit a request through the internal IT support desk.
+
+Critical security incidents should be reported immediately.
+
+Password resets can be requested through the IT support portal.
+
+High-priority requests are escalated to the infrastructure team.

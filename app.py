@@ -60,6 +60,6 @@ def query_knowledge_base(question):
 
 if __name__ == "__main__":
     # User prompt
-    question = "When is spring break this year?"
+    question = "How many vacation days do full-time employees receive?"
 
     query_knowledge_base(question)
