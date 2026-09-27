@@ -2,7 +2,7 @@ import boto3
 from botocore.config import Config
 
 # REPLACE THIS with your Knowledge Base ID
-KNOWLEDGE_BASE_ID = ""  # Example: "ABCDEFGHIJ"
+KNOWLEDGE_BASE_ID = "KLXDWROQJA"  
 
 # REPLACE THIS with your model ID 
 MODEL_ID = "us.amazon.nova-lite-v1:0"
